@@ -35,7 +35,7 @@ Proyek ini menggunakan MySQL sebagai database utama. Struktur database dapat dil
 ### Backend (Laravel)
 
 1. Clone repositori ini
-2. Masuk ke direktori backend:
+2. Masuk ke direktori backend: (contoh : `cd todo-kita/backend` )
 3. Jalankan `composer install`
 4. Salin `.env.example` ke `.env` dan sesuaikan konfigurasi
 5. Jalankan `php artisan key:generate`
@@ -43,7 +43,7 @@ Proyek ini menggunakan MySQL sebagai database utama. Struktur database dapat dil
 
 ### Frontend (React)
 
-1. Masuk ke direktori frontend: (example : cd todo-kita/frontend )
+1. Masuk ke direktori frontend: (contoh : `cd todo-kita/frontend` )
 2. Pastikan Anda telah menginstal Bun. Jika belum, ikuti panduan instalasi di [situs resmi Bun](https://bun.sh/)
 3. Jalankan `bun install` untuk menginstal dependensi dari bun
 4. Jalankan `npm install` untuk menginstal dependensi dari npm
