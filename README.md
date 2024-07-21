@@ -1,6 +1,7 @@
 # TodoKita
 
-![Logo TodoKita](url_logo_todokita.png)
+<img width="1495" alt="Screenshot 2024-07-21 at 23 47 07" src="https://github.com/user-attachments/assets/602d8240-0be4-4b55-9a68-8708c515626e">
+
 
 ## Deskripsi
 
@@ -12,7 +13,6 @@ TodoKita adalah aplikasi web manajemen tugas yang sederhana namun powerful. Dira
 - [React Js](https://react.dev/) - Framework JavaScript
 - [MySQL](https://www.mysql.com/) - Database
 - [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
-- [ShadCn](https://ui.shadcn.com/) - Package Tailwind
 
 ## Database
 
@@ -28,6 +28,7 @@ Proyek ini menggunakan MySQL sebagai database utama. Struktur database dapat dil
 - [Laravel Polymorphic Relations](https://laravel.com/docs/11.x/eloquent-relationships#many-to-many-polymorphic-relations) - untuk relasi many-to-many polimorfik
 - [Laravel Userstamps](https://github.com/sqits/laravel-userstamps) - untuk melacak pengguna yang membuat atau memperbarui model
 - [Laravel Policies](https://laravel.com/docs/11.x/authorization#writing-policies) - untuk otorisasi berbasis kebijakan
+- [ShadCn](https://ui.shadcn.com/) - untuk menggunakan tailwind versi component
 
 ## Instalasi
 
@@ -70,4 +71,6 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 ## Kontak
 
-Nama Anda - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
+Fikri Nurhakim
+- LinkedIn: [Fikri Nurhakim](https://www.linkedin.com/in/fikri-nurhakim-22a698253/)
+- GitHub: [akufikri](https://github.com/akufikri)
