@@ -61,7 +61,7 @@ export function Content() {
 
       return (
             <>
-                  <div className="grid grid-cols-2 gap-8">
+                  <div className="grid md:grid-cols-2 grid-cols-1 gap-8">
                         <div>
                               <h2 className="text-2xl font-bold mt-8 mb-4">My Todos</h2>
                               <div className="grid grid-cols-1 gap-4 mt-5">
